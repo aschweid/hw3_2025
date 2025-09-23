@@ -100,6 +100,7 @@ nav a:focus{
 .accounts-image, .onlinebanking-image, .security-image, .loans-image, .contact-image{
      grid-column: 1/-1;
      max-height: 675px;
+     overflow:hidden;
 
 }
 
