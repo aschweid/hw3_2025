@@ -22,8 +22,8 @@ nav a:hover, nav a:focus{
 
 /*Write selector/rule property to style all elements when in focus*/
 
-/*HELP??*/
-:focus {
+
+*:focus {
   border-width: 5px;
   border-style: dashed; 
   border-color: green;
